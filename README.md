@@ -8,7 +8,7 @@ This project is a front-end website for an education technology platform. It use
 
 ## Features
 
-- 20+ page EdTech website experience
+
 - Course catalog and individual program pages
 - Bootcamp, pricing, admissions, and scholarship pages
 - Mentor profiles and learner success stories
